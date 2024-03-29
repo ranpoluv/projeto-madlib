@@ -4,6 +4,7 @@
 </p>
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ranpoluv/projeto-madlib">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ranpoluv/projeto-madlib">
+  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ranpoluv&layout=compact&theme=dracula)
 </div>
 
 <h2>Funcionalidades</h2>
